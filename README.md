@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivananda Bharathi K</h1>
-<h3 align="center">A passionate frontend developer , cross-platform mobile application developer, cyber-security and machine learning enthusiast.</h3>
+<h3 align="center">A passionate frontend developer , cross-platform mobile application developer, and cyber-security enthusiast.</h3>
 
-- 🌱 I’m currently working a **Blockchain-project**
-
-- 👯 I’m looking to collaborate on **Mobile Application, Frontend Development, cyber-security and machine learning related projects**
+- 👯 I’m looking to collaborate on **Mobile Application, Frontend Development, cyber-security projects**
 
 - 👨‍💻 All of my projects are available at [https://shivanandaportfolio.vercel.app/](https://shivanandaportfolio.vercel.app/)
 
