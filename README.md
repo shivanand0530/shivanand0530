@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **Mobile Application, Frontend Development, cyber-security projects**
 
-- 👨‍💻 All of my projects are available at [https://shivanand-k.vercel.app/](https://shivanand-k.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.shivanand.dev/](https://www.shivanand.dev/)
 
 - 📫 How to reach me **shivananda0645@gmail.com**
 
